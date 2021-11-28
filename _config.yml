@@ -252,10 +252,10 @@ defaults:
       read_time: true
       comments: # true
       share: true
-  # _portfolio
+  # _home
   - scope:
       path: ""
-      type: portfolio
+      type: home
     values:
       layout: single
       author_profile: false
