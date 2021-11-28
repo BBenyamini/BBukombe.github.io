@@ -1,8 +1,10 @@
 main:
-  - title: "Blog Posts"
-    url: /post/
+  - title: home
+    url: /home/
+  - title: "Posts"
+    url: /posts/
   - title: "Resources"
     url: /resource/
-  - title: "CV"
-    url: /cv/
+  - title: "Resume"
+    url: /resume/
 
