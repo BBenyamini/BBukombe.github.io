@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Benjamin Bukombe"
   avatar           : /assets/images/Portrait.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I enjoy solving interesting problems with data analytics"
+  bio              : "I am passionate about data analytics and using data to answer research and business questions."
   location         : "Augsburg, Germany"
   email            : bukombebenjamin@gmail.com
   uri              :
