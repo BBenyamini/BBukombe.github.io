@@ -9,11 +9,11 @@ author_profile: true
 Work experience
 ======
 
-|**Research associate, University of Augsburg, Germany (January 2018 - July 2021)**
-|  * Coordinating a research project in three African countries
-|  * Collecting social and environmental data and creating metadata
-|  * Providing support in building a Microsoft Access databases for soil and environmental dataset
-|  * Writing scientific papers, conference abstract and delivering talks
+**Research associate, University of Augsburg, Germany (January 2018 - July 2021)**
+  * Coordinating a research project in three African countries
+  * Collecting social and environmental data and creating metadata
+  * Providing support in building a Microsoft Access databases for soil and environmental dataset
+  * Writing scientific papers, conference abstract and delivering talks
 
 **Consultant, Wealth Accounting and the Valuation of Ecosystem Services/ The World Bank Group (April 2016 - January 2018)**
   * Providing data collection and analysis support
@@ -25,15 +25,15 @@ Work experience
 
 **Research assistant/ ESA-Tiger-Bridge Project/University of Rwanda (December 2015 - December 2017)**
   * Coordinating project activities in Rwanda
-  * Remote sensing data (Sentinel1&2) acquisition
+  * Remote sensing data (Sentinel 1 & 2) acquisition
   * Data processing and analysis
-
+|
 Education
 ======
   * B.S. in Soil and Environmental Management, National University of Rwanda, 2012
   * M.S. in Agriculture Engineering, Szent István University, Gödöllő-Hungary,2016
   * Ph.D in Geosciences, University of Augsburg, Germany, 2022 (expected)
-
+|
 Skills
 ======
 **Data gathering :**
@@ -54,7 +54,7 @@ Skills
 **Communication :** 
   * Presenting results to a wide audience of business leaders or project stakeholders
   * Writing up and publishing results as research papers, abstract or reports
-
+|
 Activities
 ======
 **Voluntary work :** 
