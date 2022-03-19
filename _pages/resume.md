@@ -27,7 +27,6 @@ Work experience
   * Coordinating project activities in Rwanda
   * Remote sensing data (Sentinel 1 & 2) acquisition
   * Data processing and analysis
-|
 
 Education
 ======
@@ -35,7 +34,6 @@ Education
   * B.S. in Soil and Environmental Management, National University of Rwanda, 2012
   * M.S. in Agriculture Engineering, Szent István University, Gödöllő-Hungary,2016
   * Ph.D in Geosciences, University of Augsburg, Germany, 2022 (expected)
-|
 
 Skills
 ======
@@ -58,7 +56,7 @@ Skills
 **Communication :** 
   * Presenting results to a wide audience of business leaders or project stakeholders
   * Writing up and publishing results as research papers, abstract or reports
-|
+
 
 Activities
 ======
