@@ -30,19 +30,20 @@ Work experience
 
 Education
 ======
-* B.S. in Soil and Environmental Management, National University of Rwanda, 2012
-* M.S. in Agriculture Engineering, Szent István University, Gödöllő-Hungary,2016
-* Ph.D in Geosciences, University of Augsburg, Germany, 2022 (expected)
+  * B.S. in Soil and Environmental Management, National University of Rwanda, 2012
+  * M.S. in Agriculture Engineering, Szent István University, Gödöllő-Hungary,2016
+  * Ph.D in Geosciences, University of Augsburg, Germany, 2022 (expected)
 
 Skills
 ======
 **Data gathering :**
   * Identifying data sources, building collaborations to access data from various sources, building      database, and SQL queries to extract data
-* Developing KPIs relevant to industry, department, or project to support business decision making
+  * Developing KPIs relevant to industry, department, or project to support business decision making
 
 **Data exploration :**
   * Developing descriptive statistics and visualization methods to explore parameter space more quickly                      
   * Using different types of visualization techniques to examine and ensure data quality
+
 **Data cleaning :** 
   * Data quality assurance best practices in relation to statistical methods, project objectives and domain expertise 
   *	Creating and incorporating metadata and handling missing values. Developing reproducible workflow in python for processing raw data
@@ -57,7 +58,7 @@ Skills
 Activities
 ======
 **Voluntary work :** 
-  * CorrelAid Munich-Germany, 
+  * CorrelAid Munich-Germany 
   * Data for good Vancouver-Canada
   * Co-supervising bachelor and master students 
 
