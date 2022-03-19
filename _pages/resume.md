@@ -9,11 +9,11 @@ author_profile: true
 Work experience
 ======
 
-**Research associate, University of Augsburg, Germany (January 2018 - July 2021)**
-  * Coordinating a research project in three African countries
-  * Collecting social and environmental data and creating metadata
-  * Providing support in building a Microsoft Access databases for soil and environmental dataset
-  * Writing scientific papers, conference abstract and delivering talks
+|**Research associate, University of Augsburg, Germany (January 2018 - July 2021)**
+|  * Coordinating a research project in three African countries
+|  * Collecting social and environmental data and creating metadata
+|  * Providing support in building a Microsoft Access databases for soil and environmental dataset
+|  * Writing scientific papers, conference abstract and delivering talks
 
 **Consultant, Wealth Accounting and the Valuation of Ecosystem Services/ The World Bank Group (April 2016 - January 2018)**
   * Providing data collection and analysis support
@@ -60,7 +60,7 @@ Activities
 **Voluntary work :** 
   * CorrelAid Munich-Germany 
   * Data for good Vancouver-Canada
-  * Co-supervising bachelor and master students
+  * Co-supervising B.S. and M.S. students
 
  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
