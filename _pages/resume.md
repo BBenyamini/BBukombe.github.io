@@ -1,13 +1,10 @@
 ---
-layout: archive
-title: "My resume"
 permalink: /resume/
-author_profile: true
-redirect_from:
-  - /resume
----
+title: My resume
 
-{% include base_path %}
+layout: archive
+author_profile: true
+---
 
 Work experience
 ======
@@ -63,8 +60,8 @@ Activities
 **Voluntary work :** 
   * CorrelAid Munich-Germany 
   * Data for good Vancouver-Canada
-  * Co-supervising bachelor and master students 
+  * Co-supervising bachelor and master students
 
-<ul>{% for post in site.publications %}
+ <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> 
+  {% endfor %}</ul>
