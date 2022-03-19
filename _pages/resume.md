@@ -28,14 +28,18 @@ Work experience
   * Remote sensing data (Sentinel 1 & 2) acquisition
   * Data processing and analysis
 |
+
 Education
 ======
+
   * B.S. in Soil and Environmental Management, National University of Rwanda, 2012
   * M.S. in Agriculture Engineering, Szent István University, Gödöllő-Hungary,2016
   * Ph.D in Geosciences, University of Augsburg, Germany, 2022 (expected)
 |
+
 Skills
 ======
+
 **Data gathering :**
   * Identifying data sources, building collaborations to access data from various sources, building      database, and SQL queries to extract data
   * Developing KPIs relevant to industry, department, or project to support business decision making
@@ -55,8 +59,10 @@ Skills
   * Presenting results to a wide audience of business leaders or project stakeholders
   * Writing up and publishing results as research papers, abstract or reports
 |
+
 Activities
 ======
+
 **Voluntary work :** 
   * CorrelAid Munich-Germany 
   * Data for good Vancouver-Canada
