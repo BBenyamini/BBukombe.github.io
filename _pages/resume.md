@@ -1,10 +1,9 @@
 ---
 permalink: /resume/
 title: My resume
-
 layout: archive
 author_profile: true
----
+-----------------------
 
 Work experience
 ======
@@ -14,7 +13,8 @@ Work experience
   * Collecting social and environmental data and creating metadata
   * Providing support in building a Microsoft Access databases for soil and environmental dataset
   * Writing scientific papers, conference abstract and delivering talks
-----------------------------------------------------------------
+
+****************************************************************
 **Consultant, Wealth Accounting and the Valuation of Ecosystem Services/ The World Bank Group (April 2016 - January 2018)**
   * Providing data collection and analysis support
   * Reporting to the project leader
@@ -34,6 +34,7 @@ Education
 * M.S. in Agriculture Engineering, Szent István University, Gödöllő-Hungary,2016
 * Ph.D in Geosciences, University of Augsburg, Germany, 2022 (expected)
 ----------------------------------------------------------------
+
 Skills
 ======
 **Data gathering :**
