@@ -39,19 +39,20 @@ Skills
 ======
 
 **Data gathering :**
-  * Identifying data sources, building collaborations to access data from various sources, building      database, and SQL queries to extract data
+  * Identifying data sources, building collaborations to access data from various sources, building database, and SQL queries to extract data
   * Developing KPIs relevant to industry, department, or project to support business decision making
 
 **Data exploration :**
-  * Developing descriptive statistics and visualization methods to explore parameter space more quickly                      
+  * Developing descriptive statistics and visualization methods to explore features more quickly                      
   * Using different types of visualization techniques to examine and ensure data quality
 
 **Data cleaning :** 
-  * Data quality assurance best practices in relation to statistical methods, project objectives and domain expertise 
-  *	Creating and incorporating metadata and handling missing values. Developing reproducible workflow in python for processing raw data
+  * Data quality assurance best practices in relation to statistical methods, and project objectives  
+  *	Creating and incorporating metadata and handling missing values
 
 **Model development :** 
-  *	Selecting the appropriate type of model to use, exploring strengths and weaknesses of the model. Feature engineering to improve model performance
+  *	Selecting the appropriate type of model to use, exploring strengths and weaknesses of the model
+  * Feature engineering to improve model performance
 
 **Communication :** 
   * Presenting results to a wide audience of business leaders or project stakeholders
