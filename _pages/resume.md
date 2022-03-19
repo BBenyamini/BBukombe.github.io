@@ -48,7 +48,8 @@ Skills
 
 **Data cleaning :** 
   * Data quality assurance best practices in relation to statistical methods, and project objectives  
-  *	Creating and incorporating metadata and handling missing values
+  *	Handling missing values
+  * Assessing and fixing inconsistency in data
 
 **Model development :** 
   *	Selecting the appropriate type of model to use, exploring strengths and weaknesses of the model
@@ -56,7 +57,7 @@ Skills
 
 **Communication :** 
   * Presenting results to a wide audience of business leaders or project stakeholders
-  * Writing up and publishing results as research papers, abstract or reports
+  * Writing and publishing results as research papers, abstract or reports
 
 
 Activities
