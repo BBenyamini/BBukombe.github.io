@@ -1,6 +1,6 @@
 ---
 permalink: /resume/
-title: Resume
+title: 
 
 layout: archive
 author_profile: true
