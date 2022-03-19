@@ -1,10 +1,13 @@
 ---
-permalink: /resume/
-title: My resume
-
 layout: archive
+title: "My resume"
+permalink: /resume/
 author_profile: true
------------------------
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
 
 Work experience
 ======
